@@ -1,4 +1,4 @@
-Olá, Junto Seguros :)
+Olá!
 
 O framework utilizado foi .NET Core 2.2 junto com o banco de dados SQL Server, e dado o tempo do desafio, não me atentei a boas práticas arquiteturais,
 pois tive como objetivo fazer algo simples a ponto de ter uma aplicação funcional e possibilitando o teste da camada de serviço e repositório.
